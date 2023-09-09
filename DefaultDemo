@@ -1,0 +1,12 @@
+import java.io.*;
+class Sample{
+void display(){
+    System.out.println("HELLOWORLD")
+    }
+}
+class DefaultDemo{
+    public static void main(Srting args[]){
+    Sample s=new Sample();
+    s.display();
+    }
+}
