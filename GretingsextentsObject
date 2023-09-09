@@ -1,0 +1,11 @@
+import java.io.*;
+class Greetings extendsObject{
+String msg="HAPPY NEW YEAR";
+void display(){
+System.out,println("The greetings is"+msg);
+}
+public static void main(String args[]){
+Greeting gr=new Greetings();
+gr.display;
+}
+}
